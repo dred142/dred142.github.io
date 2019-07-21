@@ -147,29 +147,6 @@ font-weight: 600;
 .nav-menu{
   display: none;
 }
-a.lin {
-    position: relative;
-    display: inline-block;
-}
-
-a.lin::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    background-color: rgb(222, 221, 225);
-    height: 2px;
-    -webkit-transition: width ease 200ms, background-color ease 200ms, left ease 200ms;
-    -moz-transition: width ease 200ms, background-color ease 200ms, left ease 200ms;
-    -ms-transition: width ease 200ms, background-color ease 200ms, left ease 200ms;
-    -o-transition: width ease 200ms, background-color ease 200ms, left ease 200ms;
-    transition: width ease 200ms, background-color ease 0ms, left ease 200ms;
-}
-a.line:hover::after {
-    left: 50%;
-    width: 0;
-}
 .content{
 	padding-top: 35px;
 	background: #17181b;
