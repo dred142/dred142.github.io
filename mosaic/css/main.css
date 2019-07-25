@@ -189,7 +189,7 @@ font-weight: 400;
 }
 /*Услуги*/
 .uslugi{
-	background: #151618 url(../img/zvezdy.png);
+	background: #17181b url(../img/zvezdy.png);
 	background-position: center center;
 }
 .line{
@@ -311,7 +311,7 @@ margin-left: 25px;
 }
 /*Сделать заказ*/
 .order{
-		background: #151618 url(../img/zvezdy.png);
+		background: #17181b url(../img/zvezdy.png);
 		background-position: center center;	
 		background-repeat: no-repeat;
 }
