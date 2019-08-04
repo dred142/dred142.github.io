@@ -238,8 +238,7 @@ margin: 0;
 
 /*WASTE*/
 .waste{
-background: #fbfbfb url(../img/bg-2.png) no-repeat;
-background-position: top center;
+background: none;
 }
 .waste li{
   border-bottom: 1px dotted #000;
