@@ -239,7 +239,6 @@ margin: 0;
 /*WASTE*/
 .waste{
 background: #fbfbfb;
-opacity: .8;
 }
 .waste li{
   border-bottom: 1px dotted #000;
@@ -262,6 +261,7 @@ height:100%;
 }
 #map{
   width: 100%;
+  opacity: .8;
   position: absolute;
   height: 100%;
 }
