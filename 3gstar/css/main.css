@@ -262,7 +262,7 @@ background-position: center;
 }
 #map{
   width: 100%;
-  height: 100%;
+  height: 500px;
 }
 .reviews span{
 background: #5ab134; 
@@ -439,6 +439,10 @@ height: 0;
 .header h1{
 		font-size: 45px;
 	}
+.header .btn {
+  font-size: 14px;
+  padding: 12px 18px;
+}
 .header span{
 	line-height: 78.75px;
 }
@@ -450,13 +454,11 @@ height: 0;
 .header span{
 	line-height: 60.75px;
 	}
-	.contact img{
-	display: none;
-	}
-	.security h4 {
+
+	h4 {
     font-size: 17px;
 }
-.security h3 {
+  h3 {
     font-size: 20px;
 }
 }
