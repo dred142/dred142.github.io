@@ -439,13 +439,16 @@ height: 0;
 .header h1{
 		font-size: 45px;
 	}
+.header span{
+	line-height: 78.75px;
+}
 .header .btn {
   font-size: 14px;
   padding: 12px 18px;
 }
-.header span{
-	line-height: 78.75px;
-}
+h3{
+	font-size: 25px;
+	}
 	}
 	@media screen and (max-width: 480px){
 .header h1{
