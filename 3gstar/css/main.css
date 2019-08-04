@@ -261,6 +261,8 @@ height:100%;
 }
 #map{
   width: 100%;
+  position: absolute;
+  z-index: 0;
   height: 500px;
 }
 .reviews span{
