@@ -440,12 +440,18 @@ height: 0;
 		font-size: 45px;
 	}
 .header span{
-	line-height: 78.75px;
+	line-height: 68.75px;
 }
 .header .btn {
   font-size: 14px;
   padding: 12px 18px;
 }
+	.swiper-slide p{
+	font-size: 12px;
+	}
+	.swiper-slide h2{
+	font-size: 17px;
+	}
 h3{
 	font-size: 25px;
 	}
@@ -458,7 +464,7 @@ h3{
 		font-size: 35px;
 	}
 .header span{
-	line-height: 60.75px;
+	line-height: 45.75px;
 	}
 
 	h4 {
