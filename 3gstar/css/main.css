@@ -239,7 +239,7 @@ margin: 0;
 /*WASTE*/
 .waste{
 background: #fbfbfb url(../img/bg-2.png) no-repeat;
-background-position: center;
+background-position: top center;
 }
 .waste li{
   border-bottom: 1px dotted #000;
@@ -449,7 +449,10 @@ height: 0;
 h3{
 	font-size: 25px;
 	}
-	}
+.waste p{
+  font-size: 14px;
+}
+}
 	@media screen and (max-width: 480px){
 .header h1{
 		font-size: 35px;
@@ -463,8 +466,5 @@ h3{
 }
   h3 {
     font-size: 25px;
-}
-.waste p{
-  font-size: 14px;
 }
 }
