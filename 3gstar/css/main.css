@@ -238,8 +238,8 @@ margin: 0;
 
 /*WASTE*/
 .waste{
-background: #fff;
-opacity: .6;
+background: #fbfbfb;
+opacity: .8;
 }
 .waste li{
   border-bottom: 1px dotted #000;
