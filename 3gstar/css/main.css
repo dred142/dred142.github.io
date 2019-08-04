@@ -262,8 +262,7 @@ height:100%;
 #map{
   width: 100%;
   position: absolute;
-  z-index: 0;
-  height: 500px;
+  height: 100%;
 }
 .reviews span{
 background: #5ab134; 
