@@ -1,4 +1,3 @@
-$(document).ready(function(){
 $("textarea").keydown(function(e){
 	if(e.ctrlKey && e.keyCode == 13){
 		startComm();
@@ -6,7 +5,7 @@ $("textarea").keydown(function(e){
 });
 window.onload = function(){
 	document.getElementById('add').onclick = startComm;
-};
+}
 
 function startComm(){
 	var text = document.getElementById('txt').value;
@@ -28,5 +27,4 @@ function startComm(){
 	document.getElementById('comments__item').appendChild(comm);
 	document.getElementById('txt').value = '';
 	return true;
-};
-});
+}
