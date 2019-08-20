@@ -219,6 +219,9 @@ color:#fff;
     width: 30%;
     height: 10%;
 }
+.carousel-indicators {
+    bottom: 0px;
+}
 .blog{
   background-color: #fff;
 }
