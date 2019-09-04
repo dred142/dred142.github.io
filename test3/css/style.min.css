@@ -972,7 +972,7 @@ background: url(../img/img1.0.2.png) repeat-x center 0 #3a1a2d;
 .block3__list .item1, .block3__list .item2, .block3__list .item3, .block3__list .item4, .block3__list .item5 {
   width: 90%;
 }
-.block4, .block4 .wrapper{
+.block4, .block7, .block4 .wrapper, .block7 .wrapper-hidden, .block7__warning{
   height: 100%;
 }
 .block4 ul li {
