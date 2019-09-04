@@ -557,7 +557,7 @@ ul.list-inline li.helper { padding: 0; margin: 0; width: 100%; height: 0px; visi
 
 .block6 ul { text-align: center; background: url("../img/img5.1.png") no-repeat center 0 transparent; }
 
-.block6 ul li { padding-top: 160px; font: 300 20px/30px "RobotoCondensed-Light"; color: #b7064d; vertical-align: top; width: 305px; }
+.block6 ul li { padding-top: 160px; font: 300 20px/30px "RobotoCondensed-Light"; color: #b7064d; vertical-align: top; width: 33%; }
 
 /* block6 */
 /* block7 */
@@ -587,7 +587,7 @@ ul.list-inline li.helper { padding: 0; margin: 0; width: 100%; height: 0px; visi
 
 .block8 ul { background: transparent url("../img/img7.1.png") center 0 no-repeat; text-align: center; }
 
-.block8 ul li { padding-top: 190px; width: 325px; text-align: center; color: #FFFFff; font: 300 18px/50px "RobotoCondensed-Light"; }
+.block8 ul li { padding-top: 190px; width: 33%; text-align: center; color: #FFFFff; font: 300 18px/50px "RobotoCondensed-Light"; }
 
 /* block8 */
 /* block9 */
